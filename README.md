@@ -57,7 +57,7 @@ This project involves setting up and managing a Kubernetes cluster using Minikub
 - Successfully reduced downtime in the production environment.
 
 ## Presentation
-For a detailed presentation of the project, please refer to the uploaded project presentation (PPT).
+For a detailed presentation of the project, please refer to the uploaded project presentation [PPT](Kubernetes_Deployment.pptx).
 
 ## Conclusion
 This project demonstrates the efficient setup and management of a Kubernetes cluster for deploying Django and React applications, ensuring minimal downtime and robust scaling capabilities.
